@@ -1,4 +1,5 @@
-<h1 align="center">Hi , I'm Vedant</h1>
+<h1 align="center">Hi , I'm Vedant</h1> <p>M365 Engineer focused on cloud productivity and enterprise solutions.<br>
+Currently learning DevOps and building skills in automation and modern infrastructure. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantteke&label=Profile%20views&color=0e75b6&style=flat" alt="vedantteke" /> </p>
 
 - 📫 How to reach me **vedantteke0424@gmail.com**
